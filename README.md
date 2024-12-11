@@ -1,1 +1,1 @@
-# Geometric-Shapes
+# Geometric-Shapes, project for OOP.
